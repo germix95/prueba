@@ -47,6 +47,7 @@
 		DE803F591C575BF700450A71 /* pruebagitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pruebagitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE803F5D1C575BF700450A71 /* pruebagitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pruebagitUITests.swift; sourceTree = "<group>"; };
 		DE803F5F1C575BF700450A71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE803F6B1C575FB500450A71 /* JuegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 			children = (
 				DE803F3D1C575BF600450A71 /* AppDelegate.swift */,
 				DE803F3F1C575BF600450A71 /* ViewController.swift */,
+				DE803F6B1C575FB500450A71 /* JuegoDeMemoria.playground */,
 				DE803F411C575BF600450A71 /* Main.storyboard */,
 				DE803F441C575BF700450A71 /* Assets.xcassets */,
 				DE803F461C575BF700450A71 /* LaunchScreen.storyboard */,
